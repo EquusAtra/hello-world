@@ -1,2 +1,3 @@
 # hello-world
 First repository; made by use of tutorial
+About me....BLAH, Blah blah blah-blah...
