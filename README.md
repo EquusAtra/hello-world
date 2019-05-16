@@ -1,2 +1,2 @@
 # hello-world
-First repository; made by use oof tutorial
+First repository; made by use of tutorial
